@@ -19,21 +19,21 @@
 
 | Atributo | Detalhes |
 | :--- | :--- |
-| 🧑‍💻 **Nome** | **Raphael Delfino** |
-| 🎓 **Formação** | Estudante de Desenvolvimento de Sistemas |
-| 🎯 **Foco Principal** | Automação, Integrações, APIs REST, Webhooks & Cloud |
-| 🚀 **Principal Ferramenta** | **n8n** (Orquestração de Workflows) |
+|  **Nome** | **Raphael Delfino** |
+|  **Formação** | Estudante de Desenvolvimento de Sistemas |
+|  **Foco Principal** | Automação, Integrações, APIs REST, Webhooks & Cloud |
+|  **Principal Ferramenta** | **n8n** (Orquestração de Workflows) |
 
 > [!TIP]
 > **Missão:** Conectar serviços e sistemas heterogêneos para que conversem entre si de forma automática, eficiente e sem atrito.
 
 ---
 
-## ⚡ `02 // CORE_STACK`
+##  `02 // CORE_STACK`
 
 <div align="center">
 
-### 🤖 Automação & Integração
+###  Automação & Integração
 
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/REST%20API-00F7FF?style=for-the-badge&logo=fastapi&logoColor=black)
