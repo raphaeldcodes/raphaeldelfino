@@ -1,6 +1,6 @@
 <div align="center">
 
-# `> SYSTEM.INIT // RAPHAEL DELFINO`
+# ` RAPHAEL DELFINO`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=RAPHAEL+DELFINO;AUTOMA%C3%87%C3%83O+%26+INTEGRA%C3%87%C3%95ES;N8N+%7C+APIs+REST+%7C+WEBHOOKS+%7C+CLOUD;BUILDING+CONNECTED+SYSTEMS..." alt="Typing Animation"/>
 
