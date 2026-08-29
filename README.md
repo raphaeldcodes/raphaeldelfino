@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 `01 // SOBRE_MIM`
+##  `01 // SOBRE MIM`
 
 | Atributo | Detalhes |
 | :--- | :--- |
